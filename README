@@ -1,0 +1,7 @@
+Google App Engine Photo DB
+
+URL: http://photodb-ae.appspot.com
+Hackathon end date: Sun Feb 19 03:00:00 GMT 2011
+Description
+===========
+<p>This RESTful service will store and serve images uploaded from the Android application "Photo DB". In addition, the web application allows user to browse the recently uploaded images.</p>
